@@ -5,7 +5,7 @@
 This challenge allows you to practice the concepts and techniques learned over the past sprint and apply them in a concrete project. This sprint explored **Applied JavaScript**. During this sprint, you studied **DOM and components**. In your challenge this week, you will demonstrate your mastery of these skills by creating **an online Lambda newspaper**.
 
 This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
-
+tes test test
 You are not allowed to collaborate during the sprint challenge.
 
 ## Project Set Up
@@ -64,8 +64,12 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. What is the DOM?
+1. What is the DOM? 
+the data representation of the objects that comprise the structure and content of a document on the web
 2. What is an event?
+they are things that happen in the html elements
 3. What is an event listener?
-4. Why would we convert a NodeList into an Array?
-5. What is a component?
+The EventListener interface represents an object that can handle an event dispatched by an EventTarget object.
+4. Why would we convert a NodeList into an Array? 
+Nodelist isnt a javascript api
+5. What is a component? component controller providing the runtime data and methods
